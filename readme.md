@@ -1,4 +1,4 @@
-点击右上角三个线 outline 快速跳转考点 ↗
+# 点击右上角三个线 outline 快速展开考点 ↗
 # <font style="color:rgb(51, 51, 51);">常用工具命令对照表</font>
 | **<font style="color:rgb(51, 51, 51);">工具 / 命令名称</font>** | **<font style="color:rgb(51, 51, 51);">用途</font>** | **<font style="color:rgb(51, 51, 51);">命令 / 示例</font>** | **<font style="color:rgb(51, 51, 51);">参数（常用）</font>** |
 | --- | --- | --- | :--- |
