@@ -1218,6 +1218,7 @@ dpapi::chrome /in:\"C:\Users\fengjie\AppData\Local\Google\Chrome\User Data\Defau
 
 
 ## <font style="color:rgb(51, 51, 51);">Python逃逸总结</font>
+这里没有写全，推荐找找 SSTI 笔记，因为大一的时候不会 SSTI，就没写多少，后面学了点 web 这里就没更新了，写 web 笔记里了
 ### <font style="color:rgb(51, 51, 51);">常见系统执行命令</font>
 ```plain
 一些系统信息：import platform #platform 具体命令需要另外找
